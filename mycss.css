@@ -1,0 +1,77 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 8.4.2015, 20:00:30
+    Author     : PEPE
+*/
+body{
+    background-image: url("bg3.jpg");
+}
+.art{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius:10%;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+    width: 900px;
+    height: auto;
+    border: 2px solid white;
+    background: rgba(0, 0, 0, 0.3);
+}
+
+.imgdiv{
+    width: auto;
+    height: auto;
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.imgs:hover{
+    border: 2px solid red;
+}
+
+h1,h2{
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+#chart2013 {float: left;}
+#chartPie2013{float:right;}
+#chart2014 {float: left;}
+#chartPie2014{float:right;}
+#chart2015 {float: left;}
+#chartPie2015{float:right;}
+
+.divgraf { 
+    text-align:center;
+    float:none;
+    margin-left: auto;
+    margin-right: auto;
+}
+#grafy{
+    width: 1200px;
+    height: 1500px;
+    text-align:center;
+    float:none;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid white;
+    background: rgba(0, 0, 0, 0.3);
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius:10%;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+}
